@@ -9,4 +9,17 @@ List the files
 - data/*csv
 - scripts/utils.py
 
+
 By  Paula "THE GITMASTER" Andrea Martinez
+
+
+``` 
+      _                   .-=-.          .-==-.
+     { }      __        .' O o '.       /  -<' )
+     { }    .' O'.     / o .-. O \     /  .--v`
+     { }   / .-. o\   /O  /   \  o\   /O /
+      \ `-` /   \ O`-'o  /     \  O`-`o /
+       `-.-`     '.____.'       `.____.'
+```
+
+
