@@ -10,3 +10,13 @@ List the files
 - scripts/utils.py
 
 By Paula Andrea Martinez
+
+``` 
+      _                   .-=-.          .-==-.
+     { }      __        .' O o '.       /  -<' )
+     { }    .' O'.     / o .-. O \     /  .--v`
+     { }   / .-. o\   /O  /   \  o\   /O /
+      \ `-` /   \ O`-'o  /     \  O`-`o /
+       `-.-`     '.____.'       `.____.'
+```
+
